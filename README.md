@@ -97,7 +97,7 @@ The trained model will be saved in the specified directory.
 #### 2. Run the Detection Script
 
 ```bash
-python <detection_script.py>
+python <detection.py>
 ```
 
 ### Output Details
