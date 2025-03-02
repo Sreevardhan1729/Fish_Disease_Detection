@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 
 fish_classification/data/*.zip
+.DS_Store
