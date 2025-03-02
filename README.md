@@ -127,8 +127,3 @@ python <detection_script.py>
 - Ensure all dependencies are installed before running scripts.
 - The dataset should follow the expected directory structure.
 - If using a GPU, ensure CUDA and relevant libraries are configured.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
